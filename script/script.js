@@ -1,6 +1,3 @@
-document.addEventListener('DOMContentLoaded', function() {
-  // Your JavaScript code here
-});
       const urls = [
         { name: "Servidor Tv 1 =====>", url: "http://7go.xyz:8080/live/2AmUouCm/asdurioe8483/319598.ts" },
         { name: "Servidor Tv 2 =====>", url: "http://cnxmain.qualcom.life:80/6335408909/2065512/279.ts" },
